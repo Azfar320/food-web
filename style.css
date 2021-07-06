@@ -3,6 +3,24 @@ body{
 	font-family: 'Poppins', sans-serif;
 }
 
+header{
+	height: 200px;
+	background-color: #082268;
+	margin-top: 0px;
+}
+
+header h2{
+	text-align: center;
+	font-size: 30px;
+	padding-top: 20px;
+	color: white;
+}
+
+header p{
+	text-align: center;
+	padding-top: 10px;
+	color: #ecb0b0;
+}
 section{
 	width: 100%;
 	display: flex;
